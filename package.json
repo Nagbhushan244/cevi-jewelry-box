@@ -1,0 +1,7 @@
+{
+  "name": "cevi-jewelry-box",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx http-server . -c-1 -o index.html"
+  }
+}
